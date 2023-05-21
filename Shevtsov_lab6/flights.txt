@@ -1,0 +1,4 @@
+New-York 123 Boeing-747 09:00 Friday,Wednesday,Friday
+London 456 Airbus-A320 14:30 Tuesday,Thursday,Saturday
+Paris 789 Boeing-777 18:45 Monday,Wednesday,Friday,Sunday
+Tokyo 321 Airbus-A380 12:15 Tuesday,Thursday,Saturday

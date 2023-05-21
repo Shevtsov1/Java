@@ -1,0 +1,4 @@
+Destination: London, Flight Number: 456, Aircraft Type: Airbus-A320, Departure Time: 14:30, Weekdays: Tuesday,Thursday,Saturday
+Destination: New-York, Flight Number: 123, Aircraft Type: Boeing-747, Departure Time: 09:00, Weekdays: Friday,Wednesday,Friday
+Destination: Paris, Flight Number: 789, Aircraft Type: Boeing-777, Departure Time: 18:45, Weekdays: Monday,Wednesday,Friday,Sunday
+Destination: Tokyo, Flight Number: 321, Aircraft Type: Airbus-A380, Departure Time: 12:15, Weekdays: Tuesday,Thursday,Saturday
